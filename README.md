@@ -8,3 +8,5 @@ In its current form, it uses scipy's minimize method to with an optimization fun
 I've used this tool to show which potential spectral changes could cause a linear displacement in a given color space. In this case, could a single absorption peak be responsible for a smooth transition along the hue axis of the HSL (or LCH) color space? 
 
 This serves more as an educational tool than anything else, so it prints frames of the spectrum to potentially generate the following animation: 
+
+<img align="center" src="https://github.com/guillaumecote/RGBtoSpectrum/blob/master/animations/HSL-20x4.gif">
